@@ -1,0 +1,12 @@
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\bin\Debug\net5.0\Fotros_Store.Infrastructure.deps.json
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\bin\Debug\net5.0\Fotros_Store.Infrastructure.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\bin\Debug\net5.0\Fotros_Store.Infrastructure.pdb
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\obj\Debug\net5.0\Fotros_Store.Infrastructure.csproj.AssemblyReference.cache
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\obj\Debug\net5.0\Fotros_Store.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\obj\Debug\net5.0\Fotros_Store.Infrastructure.AssemblyInfoInputs.cache
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\obj\Debug\net5.0\Fotros_Store.Infrastructure.AssemblyInfo.cs
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\obj\Debug\net5.0\Fotros_Store.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\obj\Debug\net5.0\Fotros_Store.Infrastructure.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\obj\Debug\net5.0\refint\Fotros_Store.Infrastructure.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\obj\Debug\net5.0\Fotros_Store.Infrastructure.pdb
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Infrastructure\obj\Debug\net5.0\ref\Fotros_Store.Infrastructure.dll

@@ -1,0 +1,15 @@
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\bin\Debug\net5.0\Fotros_Store.Application.deps.json
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\bin\Debug\net5.0\Fotros_Store.Application.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\bin\Debug\net5.0\Fotros_Store.Application.pdb
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\bin\Debug\net5.0\Fotros_Store.Domain.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\bin\Debug\net5.0\Fotros_Store.Domain.pdb
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\Fotros_Store.Application.csproj.AssemblyReference.cache
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\Fotros_Store.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\Fotros_Store.Application.AssemblyInfoInputs.cache
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\Fotros_Store.Application.AssemblyInfo.cs
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\Fotros_Store.Application.csproj.CoreCompileInputs.cache
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\Fotros_Store.Application.csproj.CopyComplete
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\Fotros_Store.Application.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\refint\Fotros_Store.Application.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\Fotros_Store.Application.pdb
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\ref\Fotros_Store.Application.dll
