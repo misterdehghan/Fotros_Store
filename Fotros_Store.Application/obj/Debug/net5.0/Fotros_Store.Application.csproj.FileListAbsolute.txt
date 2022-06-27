@@ -13,3 +13,5 @@ D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Appl
 D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\refint\Fotros_Store.Application.dll
 D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\Fotros_Store.Application.pdb
 D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\obj\Debug\net5.0\ref\Fotros_Store.Application.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\bin\Debug\net5.0\Fotros_Store.Common.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Application\bin\Debug\net5.0\Fotros_Store.Common.pdb

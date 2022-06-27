@@ -18,3 +18,5 @@ D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Pers
 D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Persistence\obj\Debug\net5.0\Fotros_Store.Persistence.pdb
 D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Persistence\obj\Debug\net5.0\Fotros_Store.Persistence.genruntimeconfig.cache
 D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Persistence\obj\Debug\net5.0\ref\Fotros_Store.Persistence.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Persistence\bin\Debug\net5.0\Fotros_Store.Common.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\Fotros_Store.Persistence\bin\Debug\net5.0\Fotros_Store.Common.pdb

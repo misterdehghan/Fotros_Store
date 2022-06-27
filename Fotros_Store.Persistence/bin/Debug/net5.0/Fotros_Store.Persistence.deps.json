@@ -1065,11 +1065,17 @@
       },
       "Fotros_Store.Application/1.0.0": {
         "dependencies": {
+          "Fotros_Store.Common": "1.0.0",
           "Fotros_Store.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0"
         },
         "runtime": {
           "Fotros_Store.Application.dll": {}
+        }
+      },
+      "Fotros_Store.Common/1.0.0": {
+        "runtime": {
+          "Fotros_Store.Common.dll": {}
         }
       },
       "Fotros_Store.Domain/1.0.0": {
@@ -1765,6 +1771,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Fotros_Store.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fotros_Store.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

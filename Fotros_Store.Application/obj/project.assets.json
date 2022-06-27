@@ -161,6 +161,16 @@
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
+      "Fotros_Store.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Fotros_Store.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fotros_Store.Common.dll": {}
+        }
+      },
       "Fotros_Store.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -530,6 +540,11 @@
         "version.txt"
       ]
     },
+    "Fotros_Store.Common/1.0.0": {
+      "type": "project",
+      "path": "../Fotros_Store.Common/Fotros_Store.Common.csproj",
+      "msbuildProject": "../Fotros_Store.Common/Fotros_Store.Common.csproj"
+    },
     "Fotros_Store.Domain/1.0.0": {
       "type": "project",
       "path": "../Fotros_Store.Domain/Fotros_Store.Domain.csproj",
@@ -538,6 +553,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Fotros_Store.Common >= 1.0.0",
       "Fotros_Store.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0"
     ]
@@ -569,6 +585,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Common\\Fotros_Store.Common.csproj": {
+              "projectPath": "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Common\\Fotros_Store.Common.csproj"
+            },
             "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Domain\\Fotros_Store.Domain.csproj": {
               "projectPath": "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Domain\\Fotros_Store.Domain.csproj"
             }

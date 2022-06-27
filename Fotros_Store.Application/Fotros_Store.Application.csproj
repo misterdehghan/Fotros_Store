@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Fotros_Store.Common\Fotros_Store.Common.csproj" />
     <ProjectReference Include="..\Fotros_Store.Domain\Fotros_Store.Domain.csproj" />
   </ItemGroup>
 

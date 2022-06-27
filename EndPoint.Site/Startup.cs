@@ -11,6 +11,8 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Fotros_Store.Application.Interfaces.Contexts;
 using Fotros_Store.Persistence.Contexts;
+using Fotros_Store.Application.Services.Users.Queries.GetUsers;
+using Fotros_Store.Application.Services.Users.Queries.GetRoles;
 
 namespace EndPoint.Site
 {
@@ -28,6 +30,8 @@ namespace EndPoint.Site
         {
 
             services.AddScoped<IDataBaseContext, DataBaseContext>();
+            services.AddScoped<IGetUsersService, GetUsersService>();
+            services.AddScoped<IGetRolesService, GetRolesService>();
 
             string contectionString = @"Data Source=DESKTOP-5O1FR51; Initial Catalog=Fotros_StoreDb; Integrated Security=True;";
             services.AddEntityFrameworkSqlServer().AddDbContext<DataBaseContext>(option => option.UseSqlServer(contectionString));

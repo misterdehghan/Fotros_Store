@@ -1524,6 +1524,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Fotros_Store.Common": "1.0.0",
           "Fotros_Store.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0"
         },
@@ -1532,6 +1533,16 @@
         },
         "runtime": {
           "bin/placeholder/Fotros_Store.Application.dll": {}
+        }
+      },
+      "Fotros_Store.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Fotros_Store.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fotros_Store.Common.dll": {}
         }
       },
       "Fotros_Store.Domain/1.0.0": {
@@ -5816,6 +5827,11 @@
       "type": "project",
       "path": "../Fotros_Store.Application/Fotros_Store.Application.csproj",
       "msbuildProject": "../Fotros_Store.Application/Fotros_Store.Application.csproj"
+    },
+    "Fotros_Store.Common/1.0.0": {
+      "type": "project",
+      "path": "../Fotros_Store.Common/Fotros_Store.Common.csproj",
+      "msbuildProject": "../Fotros_Store.Common/Fotros_Store.Common.csproj"
     },
     "Fotros_Store.Domain/1.0.0": {
       "type": "project",

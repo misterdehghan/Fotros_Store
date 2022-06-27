@@ -149,3 +149,6 @@ D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\EndPoint.Site\bin
 D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\EndPoint.Site\bin\Debug\net5.0\Fotros_Store.Application.pdb
 D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\EndPoint.Site\bin\Debug\net5.0\Fotros_Store.Persistence.pdb
 D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\EndPoint.Site\bin\Debug\net5.0\Fotros_Store.Domain.pdb
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\EndPoint.Site\bin\Debug\net5.0\Fotros_Store.Common.dll
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\EndPoint.Site\bin\Debug\net5.0\Fotros_Store.Common.pdb
+D:\Miscellaneous projects\Coding\Asp Dot Net Core\Fotros_Store\EndPoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs

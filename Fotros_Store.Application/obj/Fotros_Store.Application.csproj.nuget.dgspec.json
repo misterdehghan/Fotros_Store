@@ -28,6 +28,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Common\\Fotros_Store.Common.csproj": {
+                "projectPath": "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Common\\Fotros_Store.Common.csproj"
+              },
               "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Domain\\Fotros_Store.Domain.csproj": {
                 "projectPath": "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Domain\\Fotros_Store.Domain.csproj"
               }
@@ -49,6 +52,60 @@
               "version": "[5.0.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Common\\Fotros_Store.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Common\\Fotros_Store.Common.csproj",
+        "projectName": "Fotros_Store.Common",
+        "projectPath": "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Common\\Fotros_Store.Common.csproj",
+        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
+        "outputPath": "D:\\Miscellaneous projects\\Coding\\Asp Dot Net Core\\Fotros_Store\\Fotros_Store.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
